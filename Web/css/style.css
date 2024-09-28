@@ -41,3 +41,17 @@ footer{
     align-items: center;
     justify-content: center;
 }
+
+#KLbanner{
+    height: 50vh;
+    background-image: url(../img/tiramisu-banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#tiramisulink{
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+}
