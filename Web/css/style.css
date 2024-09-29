@@ -29,7 +29,7 @@ h3{
     color: white;
 }
 footer{
-    height: 200px;
+    height: 100px;
     background-color: rgb(184, 119, 0);
     color: white;
 }
@@ -70,4 +70,26 @@ footer{
 #VMh2{
     text-align: center;
     font-size: 40px;
+}
+#backbutton{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 15px;
+    backdrop-filter: blur(3px);
+    border-radius: 50px;
+    border: 1px white solid;
+    text-decoration: none;
+    color: white;
+    transition: all ease-in-out 0.3s;
+}
+#backbutton:hover{
+    border: 1px rgb(184, 119, 0) solid;
+    color: rgb(184, 119, 0);
+    transition: all ease-in-out 0.3s;
+}
+#backbuttoncenter{
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
