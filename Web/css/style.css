@@ -78,6 +78,16 @@ footer{
     color: white; 
 }
 
+#KLfoetelbanner{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/csilisbab-banner.jpg) center/cover no-repeat;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white; 
+}
+
 #VMbanner{
     background-image: url(../img/sacher-banner.jpg);
     background-position: center;
