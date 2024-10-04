@@ -95,5 +95,7 @@ footer{
     align-items: center;
     justify-content: center;
 }
+#footertext{
+    text-align: center;
 
-/*Ez ilyen teszt cucc*/
+}
